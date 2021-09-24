@@ -14,7 +14,7 @@ Saludos 👋.**
   <tr>
     <td align="center">
       <a href="https://jmsanchezdiaz.github.io/gipharg/">
-        <img src="./gipharg.jpeg" width="300px;" alt="Gipharg"/><br>
+        <img src="./GIPHARG-PREVIEWS.png" width="300px;" alt="Gipharg"/><br>
         <sub>
           <h4>GIPHARG</h4>
         </sub>
