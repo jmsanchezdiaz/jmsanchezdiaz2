@@ -28,6 +28,14 @@ Saludos 👋.**
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://jmsanchezdiaz.github.io/aerolabchallenge/">
+        <img src="./AerolabFrame.jpeg" width="300px;" alt="aerolab-challenge"/><br>
+        <sub>
+          <h4>Aerolab Challenge</h4>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
