@@ -36,6 +36,14 @@ Saludos 👋.**
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://jmsanchezdiaz.github.io/softvision-challenge/">
+        <img src="./Softvision.jpg" width="300px;" alt="softvision-challenge"/><br>
+        <sub>
+          <h4>Softvision Challenge</h4>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
