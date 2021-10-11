@@ -38,7 +38,7 @@ Saludos 👋.**
     </td>
     <td align="center">
       <a href="https://jmsanchezdiaz.github.io/softvision-challenge/">
-        <img src="./Softvision.jpg" width="300px;" alt="softvision-challenge"/><br>
+        <img src="./Softvision.png" width="300px;" alt="softvision-challenge"/><br>
         <sub>
           <h4>Softvision Challenge</h4>
         </sub>
