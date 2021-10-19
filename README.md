@@ -46,7 +46,7 @@ Saludos 👋.**
     </td>
     <td align="center">
       <a href="https://jmsanchezdiaz.github.io/note-app/">
-        <img src="./assets/note-app.png" width="300px;" alt="Note-app"/><br>
+        <img src="./assets/noteapp.png" width="300px;" alt="Note-app"/><br>
         <sub>
           <h4>Note App</h4>
         </sub>
