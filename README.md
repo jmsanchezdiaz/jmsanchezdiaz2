@@ -14,7 +14,7 @@ Saludos 👋.**
   <tr>
     <td align="center">
       <a href="https://jmsanchezdiaz.github.io/gipharg/">
-        <img src="./GIPHARG-PREVIEWS.png" width="300px;" alt="Gipharg"/><br>
+        <img src="./assets/gipharg.png" width="300px;" alt="Gipharg"/><br>
         <sub>
           <h4>GIPHARG</h4>
         </sub>
@@ -22,7 +22,7 @@ Saludos 👋.**
     </td>
     <td align="center">
       <a href="https://jmsanchezdiaz.github.io/portfolio/">
-        <img src="./portfolio.jpg" width="300px;" alt="portfolio"/><br>
+        <img src="./assets/portfolio.jpg" width="300px;" alt="portfolio"/><br>
         <sub>
           <h4>Portfolio</h4>
         </sub>
@@ -30,7 +30,7 @@ Saludos 👋.**
     </td>
     <td align="center">
       <a href="https://jmsanchezdiaz.github.io/aerolabchallenge/">
-        <img src="./AerolabFrame.jpg" width="300px;" alt="aerolab-challenge"/><br>
+        <img src="./assets/aerolab.jpg" width="300px;" alt="aerolab-challenge"/><br>
         <sub>
           <h4>Aerolab Challenge</h4>
         </sub>
@@ -38,7 +38,7 @@ Saludos 👋.**
     </td>
     <td align="center">
       <a href="https://jmsanchezdiaz.github.io/softvision-challenge/">
-        <img src="./Softvision.png" width="300px;" alt="softvision-challenge"/><br>
+        <img src="./assets/softvision.png" width="300px;" alt="softvision-challenge"/><br>
         <sub>
           <h4>Softvision Challenge</h4>
         </sub>
@@ -46,7 +46,7 @@ Saludos 👋.**
     </td>
     <td align="center">
       <a href="https://jmsanchezdiaz.github.io/note-app/">
-        <img src="./Note-app_First_Frame.png" width="300px;" alt="Note-app"/><br>
+        <img src="./assets/note-app.png" width="300px;" alt="Note-app"/><br>
         <sub>
           <h4>Note App</h4>
         </sub>
