@@ -21,10 +21,10 @@ Saludos 👋.**
       </a>
     </td>
     <td align="center">
-      <a href="https://jmsanchezdiaz.github.io/note-app/">
-        <img src="./Note-app_First_Frame.png" width="300px;" alt="Note-app"/><br>
+      <a href="https://jmsanchezdiaz.github.io/portfolio/">
+        <img src="./portfolio.jpg" width="300px;" alt="portfolio"/><br>
         <sub>
-          <h4>Note App</h4>
+          <h4>Portfolio</h4>
         </sub>
       </a>
     </td>
@@ -41,6 +41,14 @@ Saludos 👋.**
         <img src="./Softvision.png" width="300px;" alt="softvision-challenge"/><br>
         <sub>
           <h4>Softvision Challenge</h4>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jmsanchezdiaz.github.io/note-app/">
+        <img src="./Note-app_First_Frame.png" width="300px;" alt="Note-app"/><br>
+        <sub>
+          <h4>Note App</h4>
         </sub>
       </a>
     </td>
