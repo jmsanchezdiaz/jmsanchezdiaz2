@@ -45,10 +45,10 @@ Saludos 👋.**
       </a>
     </td>
     <td align="center">
-      <a href="https://jmsanchezdiaz.github.io/note-app/">
-        <img src="./assets/noteapp.png" width="300px;" alt="Note-app"/><br>
+      <a href="https://jmsanchezdiaz.github.io/rest-countries-app/">
+        <img src="./assets/rest-countries-app.png" width="300px;" alt="rest-countries-app"/><br>
         <sub>
-          <h4>Note App</h4>
+          <h4>Rest Countries App</h4>
         </sub>
       </a>
     </td>
