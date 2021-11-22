@@ -52,6 +52,14 @@ Saludos 👋.**
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://jmsanchezdiaz.github.io/heroes-app-alkemy/">
+        <img src="./assets/heroes-app-alkemy.png" width="300px;" alt="heroes-app-alkemy"/><br>
+        <sub>
+          <h4>Heroes App Alkemy</h4>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
