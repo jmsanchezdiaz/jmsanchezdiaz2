@@ -29,7 +29,7 @@ Saludos 👋.**
       </a>
     </td>
     <td align="center">
-      <a href="https://jmsanchezdiaz.github.io/aerolabchallenge/">
+      <a href="https://jmsanchezdiaz.github.io/aerolab-challenge/">
         <img src="./assets/aerolab.jpg" width="300px;" alt="aerolab-challenge"/><br>
         <sub>
           <h4>Aerolab Challenge</h4>
