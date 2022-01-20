@@ -28,6 +28,15 @@ Saludos 👋.**
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://jestjs.io/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://testing-library.com/" target="_blank"> 
+    <img src="https://testing-library.com/img/octopus-64x64.png" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="firebase.google.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 ## Proyectos
