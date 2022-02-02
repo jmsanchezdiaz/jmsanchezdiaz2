@@ -1,3 +1,5 @@
+<img src="banner.jpg" alt="my-personal-banner"/>
+
 ## Bienvenid@s! 🇦🇷 
 
 **Soy un estudiante de Licenciatura en Informática en la Universidad Nacional de Quilmes, actualmente me encuentro en el area del desarrollo web, especificamente Front End.
