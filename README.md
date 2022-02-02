@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="my-personal-banner"/>
+<img src="LinkedIn cover - 1.jpg" alt="my-personal-banner"/>
 
 ## Bienvenid@s! 🇦🇷 
 
