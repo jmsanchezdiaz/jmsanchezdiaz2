@@ -72,10 +72,10 @@ Saludos 👋.**
   </tr>
   <tr>
     <td align="center">
-      <a href="https://jmsanchezdiaz.github.io/softvision-challenge/">
-        <img src="./assets/softvision.png" width="300px;" alt="softvision-challenge"/><br>
+      <a href="https://my-blog-personal.vercel.app/">
+        <img src="./assets/blog-personal.png" width="300px;" alt="blog-personal"/><br>
         <sub>
-          <h4>Softvision Challenge</h4>
+          <h4>Blog Personal</h4>
         </sub>
       </a>
     </td>
@@ -92,14 +92,6 @@ Saludos 👋.**
         <img src="./assets/heroes-app-alkemy.png" width="300px;" alt="heroes-app-alkemy"/><br>
         <sub>
           <h4>Heroes App Alkemy</h4>
-        </sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://my-blog-personal.vercel.app/">
-        <img src="./assets/blog-personal.png" width="300px;" alt="blog-personal"/><br>
-        <sub>
-          <h4>Blog Personal</h4>
         </sub>
       </a>
     </td>
