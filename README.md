@@ -95,6 +95,14 @@ Saludos 👋.**
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="https://my-blog-personal.vercel.app/">
+        <img src="./assets/blog-personal.png" width="300px;" alt="blog-personal"/><br>
+        <sub>
+          <h4>Blog Personal</h4>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
