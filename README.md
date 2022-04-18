@@ -46,10 +46,10 @@ Saludos 👋.**
 <table>
   <tr>
     <td align="center">
-      <a href="https://jmsanchezdiaz.github.io/gipharg/">
-        <img src="./assets/gipharg.png" width="300px;" alt="Gipharg"/><br>
+      <a href="https://jmsanchezdiaz.github.io/meli-details-challenge/">
+        <img src="./assets/mercadolibre.png" width="300px;" alt="mercadolibre challenge"/><br>
         <sub>
-          <h4>GIPHARG</h4>
+          <h4>Mercado Libre Challenge</h4>
         </sub>
       </a>
     </td>
